@@ -23,6 +23,12 @@ body {
     vertical-align: middle;
 }
 
+.text-vertical-right {
+    display: table-cell;
+    text-align: center;
+    vertical-align: right;
+}
+
 .text-vertical-center h1 {
     font-size: 4.5em;
     font-weight: 700;
